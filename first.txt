@@ -3,3 +3,6 @@ First test message is Github
 second lecture
 
 This is the third lecture
+test third lecture on 22
+
+adding new line on 22-05-2023
