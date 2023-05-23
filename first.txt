@@ -1,3 +1,5 @@
 First test message is Github
 
 second lecture
+
+This is the third lecture
